@@ -715,10 +715,10 @@ Razlaga faktorje, ki vplivajo na motivacijo posameznika:
 
 ### Kontrola obnašanja
 - Nadzira proces.
-- Primernješa v dinamičnem okolju (ko se težko oceni rezultate zaradi spremninjajočih se zunanjih dejavnikov).
+- Primernejša v dinamičnem okolju (ko se težko oceni rezultate zaradi spremninjajočih se zunanjih dejavnikov).
 
 ### Kontrola rezultatov
-- Primernješa v statičnem okolju.
+- Primernejša v statičnem okolju.
 
 ## Moderni trendi izvajanja kontrole
 
@@ -727,7 +727,7 @@ Razlaga faktorje, ki vplivajo na motivacijo posameznika:
 - centralizirana (birokratska)
 - 1:n - ne deluje več, se ne da nadzirati veliko ljudi
 - omejuje informacije
-- primer en nadzornik nad halo programerjev (alt-tab zabava)
+- primer en nadzornik v hali programerjev (alt-tab zabava)
 
 ### Horizontalna kontrola
 
