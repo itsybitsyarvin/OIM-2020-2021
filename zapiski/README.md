@@ -33,7 +33,7 @@ BDP je merilo za razvitost družbe - prikazuje kako hitro v primerjavi s populac
 - **Bruto domači proizvod**: vrednost vseh dobrin, pridobljenih znotraj države.
 - **Bruto nacionalni proizvod**: vrednost vseh dobrin, pridobljenih s strani državljanov (vključuje tudi podjetja, ki so v lasti državljanov, a se nahajajo izven meja).
 
-BDP < BNP - več državljanov dela za tuje kapitaliste (počasen razvoj)  
+BNP < BDP - več državljanov dela za tuje kapitaliste (počasen razvoj)  
 BNP > BDP - več tujih državljanov dela za domače kapitaliste (dobro - kapitalisti prinesejo denar domov)
 
 ### Pariteta kupne moči (purchasing power parity)
