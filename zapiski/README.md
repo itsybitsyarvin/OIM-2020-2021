@@ -177,7 +177,7 @@ To so naredili, ker so ugotovili, da vojne vodijo v propad države in so poskusi
 - Če ni carin, ima največje koristi država z največjim notranjim trgom, države ki veliko kupujejo od zunaj v tem sistemu propadejo/se zadolžijo
 - IMF "pomaga" poravnati dologve zadolženim državam (prodajo podjetja, znižajo plače, etc.). Dokler ne poravnajo dolgov (pristanejo na pogoje IMF) je nad državami tihi embargo - ne morejo kupovati od drugih.
 
-ZDA je računala na ekonomijo obsega (proti malim evropskim državam). Uspešne države so se zato preusmerile v nekaj ključnih panog (Nemčina - avti, Taiwan - IT) in so ZDA uspele pretentati s specializacijo in izdelavo najboljših produktov. (SLO je slaba v tem, se ne specializiramo v nič)  
+ZDA je računala na ekonomijo obsega (proti malim evropskim državam). Uspešne države so se zato preusmerile v nekaj ključnih panog (Nemčija - avti, Taiwan - IT) in so ZDA uspele pretentati s specializacijo in izdelavo najboljših produktov. (SLO je slaba v tem, se ne specializiramo v nič)  
 Prav tako imajo zdaj problem s Kitajsko, ki jih premaguje v njihovi igri z bolj uspešno strategijo obsega.
 
 ## NAJVEČJE KRIZE ZADNJIH 100 LET
