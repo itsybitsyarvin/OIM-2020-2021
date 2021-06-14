@@ -645,6 +645,7 @@ Ključno je ugotoviti kakšne potrebe ima podrejeni in te potrebe zadovoljiti (i
     - Treba dati izziv/nagrade
     - Radi delajo v okviru zmernih tveganj, ko je delo že izziv, ni pa rezultat dela še zelo tvegan. Visokih tveganj ne marajo, saj so mnenja da so ob visokem tveganju rezultati stvar naključja in ne njihovega dela.
     - Želijo dobiti konkretno povratno informacijo glede rezultatov njihovega dela.
+    - Hočejo poštene in uravnotežene kritike: kaj so naredili dobro, kaj slabo
 - **Potreba po pripadnosti**
     - "Klepetulje"
     - Usmerjeni predvsem k snovanju in vzdrževanju dobrih odnosov z ljudmi
@@ -653,12 +654,15 @@ Ključno je ugotoviti kakšne potrebe ima podrejeni in te potrebe zadovoljiti (i
     - Oseba s takšnimi potrebami se najbolje znajde v skupinskem delu
     - Ne marajo tveganja, ne podpirajo sprememb ustaljenih vrednot v združbi zaradi strahu pred zavrnitvijo
     - Dobri kandidati za začetek dela v skupini/začetek tropa
+    - Hočejo "mehko" kritiko: nočejo izstopati, v privat + najprej jih pohvališ
 - **Potreba po moči**
     - "Control Freaks"
     - Želja uveljavljanja tako čustvene kot vedenjske kontrole in/ali vpliva nad ostalimi
     - Željo po ugledu, simbolih moči in nadzoru
     - Uživajo v delu in močno cenijo disciplino (kontrola nad sabo)
     - Uživajo v izboljševanju statusa, ko obvelja njihova, v tekmovanju, osebnem prestižu
+    - Hočejo direktno kritiko.
+
 
 ## PROCESNE MOTIVACIJSKE TEORIJE
 
